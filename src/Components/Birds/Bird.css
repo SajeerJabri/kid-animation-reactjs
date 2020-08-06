@@ -1,0 +1,18 @@
+.bird3{
+    position: absolute;
+    top: 20px;
+    left: 250px;
+    z-index: 101;
+}
+.bird3 img{
+    width: 30vw;
+}
+.bird2{
+    position: absolute;
+    top: 200px;
+    right: 20px;
+    z-index: 102;
+}
+.bird2 img{
+    height: 100px;
+}

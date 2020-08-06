@@ -1,0 +1,35 @@
+.nature{
+    width: 0;
+    height: 100vh;
+    background-image: url(../../images/nature.jpg);
+    background-size: cover;
+    position: absolute;
+    top:0;
+    z-index: 50;
+}
+.nature img{
+    height: 100px;
+}
+
+.kid{
+    position: absolute;
+    bottom: 0;
+    z-index: 100;
+}
+.kid img{
+    height: 200px;
+}
+.btn{
+    position: absolute;
+    top: 20px;
+    right: 10px;
+    z-index: 200;
+}
+.btn button{
+    padding: 8px 15px;
+    background-color: blueviolet;
+    margin: 5px;
+    outline: none;
+    cursor: pointer;
+    color: azure;
+}
